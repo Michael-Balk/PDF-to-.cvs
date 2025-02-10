@@ -4,9 +4,10 @@ Under "Prepare Form" add a button to your form using   ![{8C36E841-8D7C-4A95-AB5
 
 ![{09B9839F-1F22-4379-84EE-5D4C6D4AD4ED}](https://github.com/user-attachments/assets/9b9b33f8-da6f-43d9-a296-7fffeea3bc6b)
 
-Click add and Copy and Paste the the javasript into the editor that pops up.
+Under button properties click add and Copy and Paste the the javasript into the editor that pops up.
 
-You can edit this later under ![{F0EFAC3B-72DF-4426-A217-C1B024981E12}](https://github.com/user-attachments/assets/eddda5fc-2c3b-407a-879c-7a7018e83fc4)
+You can edit this later under ![{F0EFAC3B-72DF-4426-A217-C1B024981E12}](https://github.com/user-attachments/assets/eddda5fc-2c3b-407a-879c-7a7018e83fc4)  ![{C47D32E7-004E-4E2D-A969-CD29B0D0969E}](https://github.com/user-attachments/assets/de83fce2-670a-4117-b49e-d5b65516ef4f)
+
 
 Code:
 -----
